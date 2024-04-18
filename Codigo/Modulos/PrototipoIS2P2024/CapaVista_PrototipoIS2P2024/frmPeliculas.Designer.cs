@@ -148,7 +148,7 @@ namespace CapaVista_PrototipoIS2P2024
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(209, 22);
             this.textBox3.TabIndex = 10;
-            this.textBox3.Tag = "Clasificación";
+            this.textBox3.Tag = "Clasificacion";
             // 
             // textBox4
             // 
