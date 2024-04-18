@@ -76,7 +76,8 @@ namespace Vista_PrototipoMenu
         //Método que muestra el formulario indicado
         private void btnaplicaciones_Click(object sender, EventArgs e)
         {
-            CapaVista_SisB.frmCuenta form = new CapaVista_SisB.frmCuenta();
+            
+            CapaVista_PrototipoIS2P2024.frmPeliculas form = new CapaVista_PrototipoIS2P2024.frmPeliculas();
             form.MdiParent = this;
             form.Show();
             hideSubMenu();

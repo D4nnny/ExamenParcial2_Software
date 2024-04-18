@@ -31,6 +31,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="CapaVista_PrototipoIS2P2024">
+      <HintPath>..\..\..\PrototipoIS2P2024\CapaVista_PrototipoIS2P2024\bin\Debug\CapaVista_PrototipoIS2P2024.dll</HintPath>
+    </Reference>
     <Reference Include="CapaVista_SisB">
       <HintPath>..\..\..\Sistema_Bancario\Sistema_Bancario\CapaVista_SisB\bin\Debug\CapaVista_SisB.dll</HintPath>
     </Reference>

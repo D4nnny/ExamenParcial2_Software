@@ -287,3 +287,31 @@ C:\Users\aleja\OneDrive\Escritorio\Danny\INGENIERIA DE SOFTWARE\ISP12k24\Equipo2
 C:\Users\aleja\OneDrive\Escritorio\Danny\INGENIERIA DE SOFTWARE\ISP12k24\Equipo2\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\obj\Debug\Vista_PrototipoMenu.csproj.CopyComplete
 C:\Users\aleja\OneDrive\Escritorio\Danny\INGENIERIA DE SOFTWARE\ISP12k24\Equipo2\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\obj\Debug\Vista_PrototipoMenu.dll
 C:\Users\aleja\OneDrive\Escritorio\Danny\INGENIERIA DE SOFTWARE\ISP12k24\Equipo2\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\obj\Debug\Vista_PrototipoMenu.pdb
+C:\Users\aleja\OneDrive\Escritorio\Danny\ExamenParcia2\ExamenParcial2_Software\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\bin\Debug\Vista_PrototipoMenu.dll
+C:\Users\aleja\OneDrive\Escritorio\Danny\ExamenParcia2\ExamenParcial2_Software\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\bin\Debug\Vista_PrototipoMenu.pdb
+C:\Users\aleja\OneDrive\Escritorio\Danny\ExamenParcia2\ExamenParcial2_Software\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\bin\Debug\CapaVista_PrototipoIS2P2024.dll
+C:\Users\aleja\OneDrive\Escritorio\Danny\ExamenParcia2\ExamenParcial2_Software\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\bin\Debug\Controlador_PrototipoMenu.dll
+C:\Users\aleja\OneDrive\Escritorio\Danny\ExamenParcia2\ExamenParcial2_Software\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\bin\Debug\eCryptography.dll
+C:\Users\aleja\OneDrive\Escritorio\Danny\ExamenParcia2\ExamenParcial2_Software\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\aleja\OneDrive\Escritorio\Danny\ExamenParcia2\ExamenParcial2_Software\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\bin\Debug\Navegador2.0.dll
+C:\Users\aleja\OneDrive\Escritorio\Danny\ExamenParcia2\ExamenParcial2_Software\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\bin\Debug\CapaControlador_SisB.dll
+C:\Users\aleja\OneDrive\Escritorio\Danny\ExamenParcia2\ExamenParcial2_Software\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\bin\Debug\ControllerLayer.dll
+C:\Users\aleja\OneDrive\Escritorio\Danny\ExamenParcia2\ExamenParcial2_Software\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\bin\Debug\CapaModelo_SisB.dll
+C:\Users\aleja\OneDrive\Escritorio\Danny\ExamenParcia2\ExamenParcial2_Software\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\bin\Debug\ModelLayer.dll
+C:\Users\aleja\OneDrive\Escritorio\Danny\ExamenParcia2\ExamenParcial2_Software\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\bin\Debug\CapaVista_PrototipoIS2P2024.pdb
+C:\Users\aleja\OneDrive\Escritorio\Danny\ExamenParcia2\ExamenParcial2_Software\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\bin\Debug\CapaVista_SisB.pdb
+C:\Users\aleja\OneDrive\Escritorio\Danny\ExamenParcia2\ExamenParcial2_Software\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\bin\Debug\Controlador_PrototipoMenu.pdb
+C:\Users\aleja\OneDrive\Escritorio\Danny\ExamenParcia2\ExamenParcial2_Software\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\bin\Debug\Navegador2.0.pdb
+C:\Users\aleja\OneDrive\Escritorio\Danny\ExamenParcia2\ExamenParcial2_Software\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\bin\Debug\CapaControlador_SisB.pdb
+C:\Users\aleja\OneDrive\Escritorio\Danny\ExamenParcia2\ExamenParcial2_Software\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\bin\Debug\ControllerLayer.pdb
+C:\Users\aleja\OneDrive\Escritorio\Danny\ExamenParcia2\ExamenParcial2_Software\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\bin\Debug\CapaModelo_SisB.pdb
+C:\Users\aleja\OneDrive\Escritorio\Danny\ExamenParcia2\ExamenParcial2_Software\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\bin\Debug\ModelLayer.pdb
+C:\Users\aleja\OneDrive\Escritorio\Danny\ExamenParcia2\ExamenParcial2_Software\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\obj\Debug\Vista_PrototipoMenu.csproj.AssemblyReference.cache
+C:\Users\aleja\OneDrive\Escritorio\Danny\ExamenParcia2\ExamenParcial2_Software\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\obj\Debug\Vista_PrototipoMenu.frmAplicaciones.resources
+C:\Users\aleja\OneDrive\Escritorio\Danny\ExamenParcia2\ExamenParcial2_Software\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\obj\Debug\Vista_PrototipoMenu.MenuPrototipo.resources
+C:\Users\aleja\OneDrive\Escritorio\Danny\ExamenParcia2\ExamenParcial2_Software\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\obj\Debug\Vista_PrototipoMenu.Properties.Resources.resources
+C:\Users\aleja\OneDrive\Escritorio\Danny\ExamenParcia2\ExamenParcial2_Software\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\obj\Debug\Vista_PrototipoMenu.csproj.GenerateResource.cache
+C:\Users\aleja\OneDrive\Escritorio\Danny\ExamenParcia2\ExamenParcial2_Software\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\obj\Debug\Vista_PrototipoMenu.csproj.CoreCompileInputs.cache
+C:\Users\aleja\OneDrive\Escritorio\Danny\ExamenParcia2\ExamenParcial2_Software\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\obj\Debug\Vista_PrototipoMenu.csproj.CopyComplete
+C:\Users\aleja\OneDrive\Escritorio\Danny\ExamenParcia2\ExamenParcial2_Software\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\obj\Debug\Vista_PrototipoMenu.dll
+C:\Users\aleja\OneDrive\Escritorio\Danny\ExamenParcia2\ExamenParcial2_Software\Codigo\Modulos\Prototipo\Prototipo\Capa_vista\obj\Debug\Vista_PrototipoMenu.pdb
